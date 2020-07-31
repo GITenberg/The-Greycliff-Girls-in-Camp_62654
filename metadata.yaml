@@ -1,11 +1,16 @@
 _repo: The-Greycliff-Girls-in-Camp_62654
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 62654-h/images/cover.jpg
 creator:
   author:
     agent_name: Grove, Harriet Pyne
     gutenberg_agent_id: '37167'
     url: http://www.gutenberg.org/2009/agents/37167
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62654#The-Greycliff-Girls-in-Camp
 gutenberg_issued: '2020-07-15'
 gutenberg_type: Text
 identifiers:
